@@ -1,0 +1,28 @@
+name: Amy Mann
+favicon: null
+layout_spectrum: 0.5328263188712299
+typography_spectrum: 0.2902675224468112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9358828621916473
+  lightness: 0.4630957862827927
+  saturation: 0.28605416254140437
+  rhythmicContrast: 0.9610611172392964
+purpose: []
